@@ -1,7 +1,7 @@
 # WaterCoolerXt
 WaterCoolerXt Theme by robcox
 
-<img width="1920" height="1080" alt="WaterCoolerXt1" src="https://github.com/user-attachments/assets/cd210474-112f-43fd-abb8-26ff204456a0" />
+<img width="1920" height="1080" alt="Screenshot from 2026-02-26 22-29-51" src="https://github.com/user-attachments/assets/18eb9756-9f91-45c6-8860-536cf3da47c4" />
 
 # Description
 A slightly nordish transparent theme for Gnome with modified ZorinOS 17 gnome-shell
@@ -10,7 +10,7 @@ Includes: gtk-2.0, gtk-3.0, gtk-3.20, gtk-4.0, metacity-1, openbox-3, unity, xfw
 
 WaterCoolerXt is a refreshingly transparent theme that works well with Light backgrounds.
 
-<img width="1920" height="1080" alt="WaterCoolerXt5" src="https://github.com/user-attachments/assets/14e57508-b9b7-4abe-bd4f-739cfeffcc20" />
+<img width="1920" height="1080" alt="Screenshot from 2026-02-26 22-28-41" src="https://github.com/user-attachments/assets/d275187e-5b7e-4451-8d69-bd8a225752e7" />
 
 # Installation
 Download WaterCoolerXt Theme here: <a href="https://www.gnome-look.org/p/2316372/">https://www.gnome-look.org/p/2316372/</a>
