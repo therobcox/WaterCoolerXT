@@ -1,5 +1,5 @@
 # WaterCoolerXt
-WaterCoolerXt Theme by robcox
+WaterCooler Xtreme Theme by robcox
 
 <img width="1920" height="1080" alt="Screenshot from 2026-02-26 22-29-51" src="https://github.com/user-attachments/assets/18eb9756-9f91-45c6-8860-536cf3da47c4" />
 
